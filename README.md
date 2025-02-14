@@ -33,13 +33,13 @@ Each of these objects is a list of ten entries, corresponding to the expected nu
 |"/Results/Diboson/DibosonExclusive.mx"| {nExpZhExcl, nExpWWExcl} | $\mu\mu\to Zh$ and $\mu\mu\to WW$ at Exclusive Level |
 |"/Results/Diboson/DibosonWithRadiation.mx"| {nExpZhRad, nExpWWRad, nExpWZSI, nExpWhSI} | $\mu\mu\to Zh$, $\mu\mu\to WW$, $\mu\mu\to WZ$ and $\mu\mu\to Wh$ With Radiation |
 |------|-------------------|-------------------|
-|"/Results/Difermion/DileptonTreeLevel.mx"| {nExpeeTreeLevel, nExp\[Mu]\[Mu]TreeLevel, nExp\[Tau]\[Tau]TreeLevel} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Tree Level |
-|"/Results/Difermion/DileptonExclusive.mx"| {nExpeeExcl, nExp\[Mu]\[Mu]Excl, nExp\[Tau]\[Tau]Excl} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Exclusive Level |
-|"/Results/Difermion/DileptonWithRadiation.mx"| {nExpeeRad, nExp\[Mu]\[Mu]Rad, nExp\[Tau]\[Tau]Rad, nExpe\[Nu]SI, nExp\[Mu]\[Nu]SI, nExp\[Tau]\[Nu]SI} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ , $\mu\mu\to \tau\tau$, $\mu\mu\to \nu e$, $\mu\mu\to \nu\mu$ and $\mu\mu\to \nu\tau$ at Exclusive Level |
+|"/Results/Difermion/DileptonTreeLevel.mx"| {nExpeeTreeLevel, nExp\\[Mu]\\[Mu]TreeLevel, nExp\\[Tau]\\[Tau]TreeLevel} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Tree Level |
+|"/Results/Difermion/DileptonExclusive.mx"| {nExpeeExcl, nExp\\[Mu]\\[Mu]Excl, nExp\\[Tau]\\[Tau]Excl} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Exclusive Level |
+|"/Results/Difermion/DileptonWithRadiation.mx"| {nExpeeRad, nExp\\[Mu]\\[Mu]Rad, nExp\\[Tau]\\[Tau]Rad, nExpe\\[Nu]SI, nExp\\[Mu]\\[Nu]SI, nExp\\[Tau]\\[Nu]SI} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ , $\mu\mu\to \tau\tau$, $\mu\mu\to \nu e$, $\mu\mu\to \nu\mu$ and $\mu\mu\to \nu\tau$ With Radiation |
 |------|-------------------|-------------------|
-|"/Results/Difermion/DiquarkTreeLevel.mx"| {nExpjjTreeLevel, nExpccTreeLevel, nExpttTreeLevel, nExpbbTreeLevel} | .. |
-|"/Results/Difermion/DiquarkExclusive.mx"| {nExpjjExcl, nExpccExcl, nExpttExcl, nExpbbExcl} | .. |
-|"/Results/Difermion/DiquarkWithRadiation.mx"| {nExpjjRad, nExpccRad, nExpttRad, nExpbbRad, nExpcsSI, nExptbSI} | .. |
+|"/Results/Difermion/DiquarkTreeLevel.mx"| {nExpjjTreeLevel, nExpccTreeLevel, nExpttTreeLevel, nExpbbTreeLevel} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$ and $\mu\mu\to bb$ at Tree Level |
+|"/Results/Difermion/DiquarkExclusive.mx"| {nExpjjExcl, nExpccExcl, nExpttExcl, nExpbbExcl} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$ and $\mu\mu\to bb$ at Exclusive Level |
+|"/Results/Difermion/DiquarkWithRadiation.mx"| {nExpjjRad, nExpccRad, nExpttRad, nExpbbRad, nExpcsSI, nExptbSI} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$, $\mu\mu\to bb$, $\mu\mu\to cj$ and $\mu\mu\to tb$ With Radiation |
 
 
 
