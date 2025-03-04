@@ -40,6 +40,16 @@ Each of these objects is a list of ten entries, corresponding to the expected nu
 |"/Results/Difermion/DiquarkExclusive.mx"| {nExpjjExcl, nExpccExcl, nExpttExcl, nExpbbExcl} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$ and $\mu\mu\to bb$ at Exclusive Level |
 |"/Results/Difermion/DiquarkWithRadiation.mx"| {nExpjjRad, nExpccRad, nExpttRad, nExpbbRad, nExpcsSI, nExptbSI} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$, $\mu\mu\to bb$, $\mu\mu\to cj$ and $\mu\mu\to tb$ With Radiation |
 
+Furthermore, the results for the charged final states with radiation are also simulated at fixed order using MadGraph. These results are included in the following files
+
+| File | Objects contained | Explanations |
+|------|-------------------|-------------------|
+|"/Results/Diboson/DibosonTreeLevelRadiation.mx"| {nExpwhTreeLevel, nExpwzTreeLevel} | $\mu\mu\to Wh$ and $\mu\mu\to WZ$ with Ratiation at fixed order |
+|"/Results/Difermion/DileptonTreeLevelRadiation.mx"| {nExpe\[Nu]TreeLevel,nExp\[Mu]\[Nu]TreeLevel, nExp\[Tau]\[Nu]TreeLevel} | $\mu\mu\to e\nu$, $\mu\mu\to \mu\nu$ and $\mu\mu\to \tau\nu$ with Ratiation at fixed order |
+|"/Results/Difermion/DiquarkTreeLevelRadiation.mx"| {nExpudTreeLevel, nExpcsTreeLevel, nExptbTreeLevel, nExpbbTreeLevel} | $\mu\mu\to ud$, $\mu\mu\to cs$ , $\mu\mu\to tb$ and $\mu\mu\to bb$ with Ratiation at fixed order |
+
+NOTE: the $\mu\mu\to ud$ cross-section should be **summed** to the $\mu\mu\to jj$ Tree Level cross-section and **not** included as an independent measure. 
+
 NOTE: these expected numbers of events are computed WITHOUT including any experimental tagging efficiencies and mistag errors. These parameters are reported here as a table and should be included for sensitivity projections.
 
 TODO: TABLE
