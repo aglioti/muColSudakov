@@ -26,7 +26,6 @@ The meaning of these observables is explained in great detail in hep-ph/2202.105
 Each .mx file in the Results folder contains the definition of several Mathematica Lists, that can be loaded using the Get[...] command.
 Each of these objects is a list of ten entries, corresponding to the expected number of events for a given process in 10 equally spaced angular bins between 30 and 150 degrees as a function of all the relevant Wilson Coefficients.
 
-
 | File | Objects contained | Explanations |
 |------|-------------------|-------------------|
 |"/Results/Diboson/DibosonTreeLevel.mx"| {nExpZhTreeLevel, nExpWWTreeLevel} | $\mu\mu\to Zh$ and $\mu\mu\to WW$ at Tree Level |
@@ -41,6 +40,9 @@ Each of these objects is a list of ten entries, corresponding to the expected nu
 |"/Results/Difermion/DiquarkExclusive.mx"| {nExpjjExcl, nExpccExcl, nExpttExcl, nExpbbExcl} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$ and $\mu\mu\to bb$ at Exclusive Level |
 |"/Results/Difermion/DiquarkWithRadiation.mx"| {nExpjjRad, nExpccRad, nExpttRad, nExpbbRad, nExpcsSI, nExptbSI} | $\mu\mu\to jj$, $\mu\mu\to cc$ , $\mu\mu\to tt$, $\mu\mu\to bb$, $\mu\mu\to cj$ and $\mu\mu\to tb$ With Radiation |
 
+NOTE: these expected numbers of events are computed WITHOUT including any experimental tagging efficiencies and mistag errors. These parameters are reported here as a table and should be included for sensitivity projections.
+
+TODO: TABLE
 
 
 
