@@ -46,7 +46,7 @@ Furthermore, the results for the charged final states with radiation are also si
 |------|-------------------|-------------------|
 |"/Results/Diboson/DibosonTreeLevelRadiation.mx"| {nExpwhTreeLevel, nExpwzTreeLevel} | $\mu\mu\to Wh$ and $\mu\mu\to WZ$ with Ratiation at fixed order |
 |"/Results/Difermion/DileptonTreeLevelRadiation.mx"| {nExpe\[Nu]TreeLevel,nExp\[Mu]\[Nu]TreeLevel, nExp\[Tau]\[Nu]TreeLevel} | $\mu\mu\to e\nu$, $\mu\mu\to \mu\nu$ and $\mu\mu\to \tau\nu$ with Ratiation at fixed order |
-|"/Results/Difermion/DiquarkTreeLevelRadiation.mx"| {nExpudTreeLevel, nExpcsTreeLevel, nExptbTreeLevel, nExpbbTreeLevel} | $\mu\mu\to ud$, $\mu\mu\to cs$ , $\mu\mu\to tb$ and $\mu\mu\to bb$ with Ratiation at fixed order |
+|"/Results/Difermion/DiquarkTreeLevelRadiation.mx"| {nExpudTreeLevel, nExpcsTreeLevel, nExptbTreeLevel} | $\mu\mu\to ud$, $\mu\mu\to cs$ , $\mu\mu\to tb$ and $\mu\mu\to bb$ with Ratiation at fixed order |
 
 NOTE: the $\mu\mu\to ud$ cross-section should be **summed** to the $\mu\mu\to jj$ Tree Level cross-section and **not** included as an independent measure. 
 
