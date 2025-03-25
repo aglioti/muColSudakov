@@ -65,7 +65,7 @@ $\epsilon_{cb} = 10\%\,, \epsilon_{cc} = 50\%\,,\epsilon_{cj} = 40\%$
 $\epsilon_{jb} = 1\%\,, \epsilon_{jc} = 2\%\,,\epsilon_{jj} = 97\%$
 
 For diboson processes we assume the following overall efficiencies, combining branching ratios and reconstruction:  
-$\epsilon_{Zh}=26\%$ 
+$\epsilon_{Zh}=26%$ 
 $\epsilon_{WW}=44\%$ 
 $\epsilon_{WZ}=23\%$ 
 $\epsilon_{Wh}=19\%$ 
