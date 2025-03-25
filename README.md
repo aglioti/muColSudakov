@@ -60,9 +60,9 @@ For each top quark, we assume the following reconstruction efficiency:
 $$\epsilon_{t}=80\\%$$  
 
 For each other quarks we assume the following mistag probabilities $\epsilon_{\text{true},\text{tagged}}$:  
-$$\epsilon_{bb} = 80\%\,, \epsilon_{bc} = 10\%\,,\epsilon_{bj} = 10\%$$   
-$$\epsilon_{cb} = 10\%\,, \epsilon_{cc} = 50\%\,,\epsilon_{cj} = 40\\%$$  
-$$\epsilon_{jb} = 1\%\,, \epsilon_{jc} = 2\%\,,\epsilon_{jj} = 97\\%$$   
+$$\epsilon_{bb} = 80\\%\,, \epsilon_{bc} = 10\\%\,,\epsilon_{bj} = 10\\%$$   
+$$\epsilon_{cb} = 10\\%\,, \epsilon_{cc} = 50\\%\,,\epsilon_{cj} = 40\\%$$  
+$$\epsilon_{jb} = 1\\%\,, \epsilon_{jc} = 2\\%\,,\epsilon_{jj} = 97\\%$$   
 
 For diboson processes we assume the following overall efficiencies, combining branching ratios and reconstruction:   
 $$\epsilon_{Zh}=26\\%$$  
