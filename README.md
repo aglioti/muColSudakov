@@ -42,7 +42,7 @@ The diquark results are given as a 3x3 matrix in flavor space.
 |------|-------------------|-------------------|
 |"/Results/Difermion/DileptonTreeLevel.mx"| {nExpeeTreeLevel, nExp\\[Mu]\\[Mu]TreeLevel, nExp\\[Tau]\\[Tau]TreeLevel} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Tree Level |
 |"/Results/Difermion/DileptonExclusive.mx"| {nExpeeExcl, nExp\\[Mu]\\[Mu]Excl, nExp\\[Tau]\\[Tau]Excl} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ and $\mu\mu\to \tau\tau$ at Exclusive Level |
-|"/Results/Difermion/DileptonWithRadiation.mx"| {nExpeeRad, nExp\[Mu]\[Mu]Rad, nExp\[Tau]\[Tau]Rad, nExpem\[Nu]SI, nExp\[Mu]m\[Nu]SI, nExp\[Tau]m\[Nu]SI, nExp\[Nu]epSI, nExp\[Nu]\[Mu]pSI, nExp\[Nu]\[Tau]pSI} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ , $\mu\mu\to \tau\tau$, $\mu\mu\to e^-\bar{\nu}$, $\mu\mu\to \nu e^+$, $\mu\mu\to \mu^-\bar{\nu}$, $\mu\mu\to \nu \mu^+$, $\mu\mu\to \tau^-\bar{\nu}$ and $\mu\mu\to \nu \tau^+$, With Radiation |
+|"/Results/Difermion/DileptonWithRadiation.mx"| {nExpeeRad, nExp\[Mu]\[Mu]Rad, nExp\[Tau]\[Tau]Rad, nExpem\[Nu]SI, nExp\[Mu]m\[Nu]SI, nExp\[Tau]m\[Nu]SI, nExp\[Nu]epSI, nExp\[Nu]\[Mu]pSI, nExp\[Nu]\[Tau]pSI} | $\mu\mu\to ee$, $\mu\mu\to \mu\mu$ , $\mu\mu\to \tau\tau$, $\mu\mu\to e^-\bar{\nu}$, $\mu\mu\to \nu e^+$, $\mu\mu\to \mu^-\bar{\nu}$, $\mu\mu\to \nu \mu^+$, $\mu\mu\to \tau^-\bar{\nu}$ and $\mu\mu\to \nu \tau^+$ With Radiation |
 |------|-------------------|-------------------|
 |"/Results/Difermion/DiquarkTreeLevel.mx"| {nExpuuTreeLevel, nExpddTreeLevel} | $\mu\mu\to u^i \bar{u}^j$ and $\mu\mu\to d^i \bar{d}^j$ at Tree Level |
 |"/Results/Difermion/DiquarkExclusive.mx"| {nExpuuExcl, nExpddExcl} | $\mu\mu\to u^i \bar{u}^j$ and $\mu\mu\to d^i \bar{d}^j$ at Exclusive Level |
