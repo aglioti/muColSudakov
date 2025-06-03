@@ -17,6 +17,12 @@ The usage of the notebook is explained in detail inside the notebook itself, spe
 
 ## Results
 
+The expected number of events are calculated assuming an integrated luminosity of   
+
+$$\hat{\mathcal{L}} = 10\text{ ab}^{-1} \left(\frac{\sqrt{s}}{10\text{ TeV}}\right)^2$$  
+
+where the energy scaling makes the number of SM events the same at every collider energy.
+
 A collection of results is included in the Results folder of this repository. This includes the expected number of events for a 10 TeV Muon Collider for three kind of observables
 - Tree Level
 - Exclusive
