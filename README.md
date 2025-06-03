@@ -1,4 +1,4 @@
-# Sudakov Double Logs for a Muon collider
+# Sudakov Double Logs for a Muon Collider
 
 A Mathematica notebook to compute the Sudakov Double Logs for 2->2 processes at a Muon Collider.
 These results were used in hep-ph/25xx.xxxxx and hep-ph/25xx.xxxxx (to appear).
@@ -17,11 +17,18 @@ The usage of the notebook is explained in detail inside the notebook itself, spe
 
 ## Results
 
-The expected number of events are calculated assuming an integrated luminosity of   
+The expected number of events is calculated assuming an integrated luminosity of   
 
 $$\hat{\mathcal{L}} = 10\text{ ab}^{-1} \left(\frac{\sqrt{s}}{10\text{ TeV}}\right)^2$$  
 
-where the energy scaling makes the number of SM events the same at every collider energy.
+where the energy scaling ensures that the number of SM events remains the same at every collider energy.
+
+<!--
+Explicitely
+| $\sqrt{S}$ | $3\text{ TeV}$ | $7.6\text{ TeV}$ | $10\text{ TeV}$ | $30\text{ TeV}$ |
+|------|-------------------|-------------------|-------------------|-------------------|
+| $\hat{\mathcal{L}}$ | $0.9\text{ ab}^{-1}$ |  $5.8\text{ ab}^{-1}$ | $10\text{ ab}^{-1}$  | $90\text{ ab}^{-1}$  |
+-->
 
 A collection of results is included in the Results folder of this repository. This includes the expected number of events for a 10 TeV Muon Collider for three kind of observables
 - Tree Level
@@ -34,7 +41,7 @@ The short version is:
 - With Radiation: $\mu\mu\to PP' + X$ must have real soft radiation
 The two classes of observables are independent and can be combined separately in fits.
 
-The Tree Level predictions instead are included just for completeness.
+The Tree-Level predictions instead, are included just for completeness.
 
 Each .mx file in the Results folder contains the definition of several Mathematica Lists, that can be loaded using the Get[...] command.
 Each of these objects is a list of ten entries, corresponding to the expected number of events for a given process in 10 equally spaced angular bins between 30 and 150 degrees as a function of all the relevant Wilson Coefficients.
