@@ -44,7 +44,7 @@ The two classes of observables are independent and can be combined separately in
 The Tree-Level predictions instead, are included just for completeness.
 
 Each .mx file in the Results folder contains the definition of several Mathematica Lists, that can be loaded using the Get[...] command.
-Each of these objects is a list of ten entries, corresponding to the expected number of events for a given process in 10 equally spaced angular bins between 30 and 150 degrees as a function of all the relevant Wilson Coefficients.
+Each of these objects is a list of ten entries, corresponding to the expected number of events for a given process in 10 angular bins between 20 and 160 degrees equally spaced in cos(theta) as a function of all the relevant Wilson Coefficients.
 The diquark results are given as a 3x3 matrix in flavor space.
 
 | File | Objects contained | Explanations |
